@@ -1,1 +1,3 @@
-export const API_BASE_PATH = `https://reqres.in`;
+module.exports = {
+    API_BASE_PATH: 'https://reqres.in/' // Replace with your actual base path
+  };
